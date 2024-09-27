@@ -1,1 +1,7 @@
-# Named-Entity-Recognition-with-NLTK
+# Named Entity Recognition with NLTK
+
+This repository explores the application of Named Entity Recognition (NER) using the Natural Language Toolkit (NLTK) to extract key information from news articles. NER acts like a smart assistant, allowing computers to identify and categorize essential details such as names of people, places, and organizations within a text. By employing this technique, we aim to simplify the process of extracting meaningful insights from large volumes of information, making it easier for readers and researchers to grasp important details quickly.
+
+The step-by-step approach begins with importing necessary libraries and reading the text data. The next step is tokenizing the sentences, which involves breaking down the text into individual words to analyze its structure. After tokenization, we perform Part-of-Speech (POS) tagging to assign grammatical categories to each word, which helps understand the relationships between words in the sentence. Finally, NER is applied to identify named entities and categorize them based on their roles, such as identifying proper nouns, organizations, and more.
+
+Through this process, the project successfully demonstrates how NER can transform raw text into a more structured format, making it accessible for various users. By identifying important entities, this project highlights the value of NER in simplifying the overwhelming task of processing large volumes of information, aiding researchers, analysts, and anyone looking to extract essential information from news articles.
